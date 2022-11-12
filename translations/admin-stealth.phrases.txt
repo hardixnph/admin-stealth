@@ -8,6 +8,6 @@
 	"Stealth Disconnect"
 	{
 		"#format"	"{1:N}"
-		"en"		"{1} left the game (Disconnected)"
+		"en"		"Player {1} left the game (Disconnected)"
 	}
 }
